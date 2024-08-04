@@ -60,7 +60,7 @@ Next
 In this lab step, you created a data collection rule in Sentinel data connector to capture security events from an Azure VM.
 ![CONNECTED](https://github.com/user-attachments/assets/c8a8021f-15af-434f-892c-3a3ee95adac5)
 
-##CREATING SENTINEL ANALYTICS RULE
+## CREATING SENTINEL ANALYTICS RULE
  
 Sentinel threat detection offers security experts and analysts the capability to capture threats based on specific metrics and rules to take actions proactively before the systems are compromised. The attacks can be in any form, including password attack, roles and permissions misusage, database infiltration, DDoS against web servers, or lateral privilege escalation involving multiple compromised resources.
 Since identifying and hunting for these kinds of attacks can be cumbersome if done manually, the analytics rule allows you to schedule queries that run on a specific interval and evaluate the environment to match events that are potential for an attack. You can either use Microsoft's provided in-built detection templates or create your own rules based on your business needs.
