@@ -57,7 +57,7 @@ The connector is currently disconnected, and no data is available.
 Next 
 ![data collection rule](https://github.com/user-attachments/assets/32d0d727-e484-4eb3-ac92-1d8dd23963c9)
 
-In this lab step, you created a data collection rule in Sentinel data connector to capture security events from an Azure VM.
+In this lab step, i created a data collection rule in Sentinel data connector to capture security events from an Azure VM.
 ![CONNECTED](https://github.com/user-attachments/assets/c8a8021f-15af-434f-892c-3a3ee95adac5)
 
 ## CREATING SENTINEL ANALYTICS RULE
